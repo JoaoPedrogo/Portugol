@@ -1,0 +1,24 @@
+programa
+{
+	funcao inicio()
+	{
+
+
+		//Cadeia
+		cadeia NOME, IDADE, SOB
+		
+		//Textos
+	
+		escreva("|---------------------------------------------------|\n")
+		escreva("|                     ATIVIDADE 3                   |\n")
+		escreva("|---------------------------------------------------|\n")
+		escreva("•Digite seu nome: ")
+		leia (NOME)
+		escreva("•Digite o seu Sobrenome:")
+		leia (SOB)
+		escreva("Olá ",NOME," ", SOB, " Tudo bem ? , Espero que sim!")
+		
+	
+		
+		}
+}
