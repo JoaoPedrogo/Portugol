@@ -1,0 +1,34 @@
+programa
+{
+	
+	funcao inicio()
+	{
+
+
+
+		cadeia nome, sobn, prof
+		real salario, idade
+
+		
+		escreva("Qual seu nome? ")
+		leia(nome)
+		limpa()
+		escreva("Qual seu sobrenome? ")
+		leia(sobn)
+		limpa()
+		escreva("Quantos anos você tem? ")
+		leia(idade)
+		limpa()
+		escreva("Qual sua profissão? ")
+		leia(prof)
+		limpa()
+		escreva("Qual seu salario atual? ")
+		leia(salario)
+		limpa()
+		escreva(
+			"Olá ", nome," ",sobn,".\n",
+			"Parabéns por estar recebendo ", salario," como ", prof, " ", "tendo ", idade, " anos."
+			)
+		
+	}
+}
