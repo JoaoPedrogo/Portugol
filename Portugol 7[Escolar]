@@ -1,0 +1,31 @@
+programa
+{
+	
+	funcao inicio()
+	{
+
+		real n1, n2, soma,sub,div,mult
+		escreva("Digite o primeiro numero: ")
+		leia(n1)
+		escreva("Digite o segundo numero: ")
+		leia(n2)
+		limpa()
+		
+		soma=n1+n2
+		sub=n1-n2
+		div=n1/n2
+		mult= n1*n2
+
+
+
+		escreva("Numeros escolhidos ","[", n1,"]", " e ","[", n2,"]\n")
+		escreva("",
+		"Soma de ", n1, " + ", n2," = ","[", soma,"]\n",
+		"Subtração de ", n1, " - ", n2,  " = ","[",sub,"]\n",
+		"Divisão de ", n1," / ", n2, " = ","[", div,"]\n",
+		"Multiplicação de ",n1, " * ", n2, " = ","[", mult,"]\n"
+	
+		
+		)
+	}
+}
