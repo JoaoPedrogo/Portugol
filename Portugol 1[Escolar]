@@ -1,0 +1,94 @@
+programa
+{
+	inclua biblioteca Texto
+	funcao inicio()
+	{
+
+
+		//Cadeia
+		cadeia NOME, IDADE, Start ,START
+		
+		//Textos
+	
+		escreva("|---------------------------------------------------|\n")
+		escreva("|                     ATIVIDADE                     |\n")
+		escreva("|---------------------------------------------------|\n")
+		escreva("•Digite seu nome: ")
+		leia (NOME)
+		escreva("-Olá ")
+		escreva(NOME )
+		escreva(" Seja bem vido(a) em minha atividade")
+		escreva("\n•Digite sua idade: ")
+		leia (NOME)
+		escreva("\nEscreva 'Start' para começar o mini video\n")
+		leia (Start)
+		escreva("_Oi_P___________________________\n")
+		escreva("_Oi_Pr__________________________\n")
+		escreva("_Oi_Pro_________________________\n")
+		escreva("_Oi_Prof________________________\n")
+		escreva("_Oi_Profe_______________________\n")
+		escreva("_Oi_Profes______________________\n")
+		escreva("_Oi_Profess_____________________\n")
+		escreva("_Oi_Professo____________________\n")
+		escreva("_Oi_Prrofessor__________________\n")
+		escreva("_Oi_Professo____________________\n")
+		escreva("_Oi_Profess_____________________\n")
+		escreva("_Oi_Profes______________________\n")
+		escreva("_Oi_Profe_______________________\n")
+		escreva("_Oi_Prof________________________\n")
+		escreva("_Oi_Pro_________________________\n")
+		escreva("_Oi_Pr__________________________\n")
+		escreva("_Oi_P___________________________\n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("                      F  \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("                                      A \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("                                   L   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("                                                         A  \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("   \n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("SONOSJVNOJNEPRUNPFUNPIDO3OUSOGNH\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("PSOUGHOSUFHGODSFUGHOIJMPDO1FASSD\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("GILBDHFOGUFHDOGUDFHOGUDHFOGIFJHO\n")
+		escreva("39485913898534283742893573285722\n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("SONOSJVNOJNEPRUNPFUNPIDO3OUSOGNH\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("PSOUGHOSUFHGODSFUGHOIJMPDO1FASSD\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("GILBDHFOGUFHDOGUDFHOGUDHFOGIFJHO\n")
+		escreva("39485913898534283742893573285722\n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		escreva("23593523523502394839583948593458\n")
+		escreva("PDGJOSIDUGJSIOUDGJSOIGSPDFIGSPDF\n")
+		
+
+
+		limpa()
+
+		
+		
+		}
+}
