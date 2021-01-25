@@ -1,0 +1,29 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	cadeia nome[5], idades[5], sobre[5]
+
+	para (inteiro zp=0; zp<5; zp++){
+		escreva("-Nomes: ")
+		leia(nome[zp])
+		limpa()
+	}
+	para (inteiro zp=0; zp<5; zp++){
+	escreva("-Sobrenomes: ")
+	leia(sobre[zp])
+	limpa()
+	}
+	para (inteiro zp1=0; zp1<5; zp1++){
+	escreva("-Idades: ")
+	leia(idades[zp1])
+	limpa()
+	}
+	escreva("Tabela de Dados")
+	para (inteiro zp1=0; zp1<5; zp1++){
+		escreva("\n--------------------", "\nNomes: ",nome[zp1],"\nSobrenomes: ", sobre [zp1], "\nIdades: ", idades[zp1])
+	}
+	escreva("\n--------------------")
+	}
+}
