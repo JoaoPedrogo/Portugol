@@ -1,0 +1,29 @@
+programa
+{
+    funcao inicio()
+    {
+    cadeia nome , escolh
+    inteiro numero1, numero2, resu
+    escreva("Qual seu nome: ")
+    leia(nome)
+    limpa()
+
+    faca{
+        escreva("Então Deseja verificar outra Nota? (Sim ou Não)\n")
+        leia(escolh)
+}enquanto (escolh =="Não")
+        limpa()
+        
+        escreva("Vamos tirar sua media do bimestre\n")
+        escreva("Primeira nota!\n")
+        leia(numero1)
+        limpa()
+        escreva("Segunda nota!\n")
+        leia(numero2)
+        limpa()
+        resu = (numero1+numero2)/2
+        escreva("O Resultado do seu primeiro bimestre ",nome," Foi: ",resu, "pontos!")
+
+
+    }
+}
